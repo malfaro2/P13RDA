@@ -1,0 +1,135 @@
+---
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE}
+library(xaringanthemer)
+solarized_dark(
+  code_font_family = "Fira Code",
+  code_font_url    = "https://cdn.rawgit.com/tonsky/FiraCode/1.204/distr/fira_code.css"
+)
+```
+class: inverse,center, middle
+
+# P13 RDA - International Network of Networks Workshop
+
+## CODATA-RDA Schools
+
+
+### Marcela Alfaro Córdoba
+
+![](http://www.estadistica.ucr.ac.cr/images/EEST/Logos/Escuela-con-UCR.png)
+
+---
+
+# CODATA-RDA Schools
+
+* Two week events
+
+* Focus on early career researchers from LMIC's
+
+* Data Science Skills
+ 
+* Open Science materials
+
+* Building international and inter-disciplinary communities.
+
+* 6 schools in 3 continents, with more than 250 students from 40 countries.
+
+
+---
+class: inverse, center, middle
+
+# 2016
+
+# Trieste
+
+---
+class: inverse, center, middle
+
+# 2017 
+
+# Trieste (student), São Paulo (helper)
+
+---
+class: inverse, center, middle
+
+# 2018 
+
+# Co-chair of the working group
+
+# Trieste, Kigali, São Paulo (co-director)
+
+---
+# Impact of CODATA-RDA Schools
+
+* Experience in working group.
+
+* Experience teaching Open Science and RDM topics to early career researchers from Latin America.
+
+* Collaboration with other ECRs from the schools.
+
+* Local impact: bring the curriculum to my region, and contact with Open Data initiatives in Latin America. 
+
+---
+# Challenges related to data sharing
+
+* Lack of information/training
+
+
+* Budget constraints and/or political restrictions
+
+
+* Generational gap
+
+
+* In some cases, data sharing is not yet a  concern.
+
+---
+
+# How to address these challenges?
+
+* Training
+
+--
+
+* Starting conversations about data sharing
+
+--
+
+* Building communities
+
+--
+
+* ECRs
+
+---
+class: center, middle
+
+background-image: url(curriculum.png)
+background-size: 600px
+background-position: 50% 70%
+
+
+
+---
+class: inverse, center, middle
+
+# Thanks!
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
+
+
+![](https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png)

@@ -1,0 +1,103 @@
+---
+output:
+  xaringan::moon_reader:
+    seal: false
+    lib_dir: libs
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE}
+library(xaringanthemer)
+solarized_dark(
+  code_font_family = "Fira Code",
+  code_font_url    = "https://cdn.rawgit.com/tonsky/FiraCode/1.204/distr/fira_code.css"
+)
+```
+class: inverse,center, middle
+
+# CODATA-RDA Schools
+
+### P13 RDA - Training in Research Data Skills
+
+### Marcela Alfaro Córdoba
+
+![](http://www.estadistica.ucr.ac.cr/images/EEST/Logos/Escuela-con-UCR.png)
+
+---
+
+# CODATA-RDA Schools
+
+* Two week event
+
+* Focus on early career researchers from LMIC's
+
+* Data Science Skills
+ 
+* Open Science materials
+
+--
+
+# Repo with materials
+
+You can find the 2018 materials in [this](https://github.com/CODATA-RDA-DataScienceSchools/Materials/blob/master/docs/index.md) repo.
+
+
+---
+class: inverse, center, middle
+
+# 2016
+
+# Trieste
+
+---
+class: inverse, center, middle
+
+# 2017 
+
+# Trieste, Sao Paulo
+
+---
+class: inverse, center, middle
+
+# 2018 
+
+# Trieste, Kigali, Sao Paulo
+
+---
+class: inverse, center, middle
+
+# 3 continents
+
+# ~250 students from 40 countries
+
+---
+class: inverse, center, middle
+
+# 2019 - 2020 Plans 
+
+# Addis Ababa, Trieste, Kigali, San José, Pretoria, Sao Paulo, Train-the-trainer workshop
+
+---
+class: inverse, center, middle
+
+background-image: url(curriculum.png)
+background-size: 400px
+background-position: 50% 70%
+
+---
+class: inverse, center, middle
+
+# Thanks!
+
+Slides created via the R package [**xaringan**](https://github.com/yihui/xaringan).
+
+
+![](https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png)
