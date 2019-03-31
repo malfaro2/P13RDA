@@ -48,6 +48,14 @@ class: inverse,center, middle
 
 * 6 schools in 3 continents, with more than 250 students from 40 countries.
 
+---
+class: center, middle
+
+background-image: url(curriculum.png)
+background-size: 600px
+background-position: 50% 70%
+
+
 
 ---
 class: inverse, center, middle
@@ -114,14 +122,6 @@ class: inverse, center, middle
 --
 
 * ECRs
-
----
-class: center, middle
-
-background-image: url(curriculum.png)
-background-size: 600px
-background-position: 50% 70%
-
 
 
 ---

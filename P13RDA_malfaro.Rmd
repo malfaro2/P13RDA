@@ -89,7 +89,7 @@ class: inverse, center, middle
 class: inverse, center, middle
 
 background-image: url(curriculum.png)
-background-size: 400px
+background-size: 500px
 background-position: 50% 70%
 
 ---
