@@ -94,6 +94,7 @@ class: inverse, center, middle
 ---
 # Challenges related to data sharing
 
+
 * Lack of information/training
 
 
