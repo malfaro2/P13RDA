@@ -27,9 +27,16 @@ class: inverse,center, middle
 
 ### P13 RDA - Training in Research Data Skills
 
-### Marcela Alfaro Córdoba
+### [Marcela Alfaro Córdoba](https://malfaro2.github.io/)
 
 ![](http://www.estadistica.ucr.ac.cr/images/EEST/Logos/Escuela-con-UCR.png)
+
+---
+class: inverse, center, middle
+
+background-image: url(http://indico.ictp.it/event/7974/material/3/0.jpg)
+background-size: 700px
+background-position: 50% 50%
 
 ---
 
@@ -53,8 +60,8 @@ You can find the 2018 materials in [this](https://github.com/CODATA-RDA-DataScie
 class: inverse, center, middle
 
 background-image: url(curriculum.png)
-background-size: 500px
-background-position: 50% 70%
+background-size: 690px
+background-position: 50% 50%
 
 
 ---
@@ -91,6 +98,14 @@ class: inverse, center, middle
 # 2019 - 2020 Plans 
 
 # Addis Ababa, Trieste, Kigali, San José, Pretoria, Sao Paulo, Train-the-trainer workshop
+
+---
+class: inverse, center, middle
+
+background-image: url(http://indico.ictp.it/event/8329/material/3/0.jpg)
+background-size: 700px
+background-position: 50% 50%
+
 
 ---
 class: inverse, center, middle
