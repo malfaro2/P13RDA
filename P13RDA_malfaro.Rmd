@@ -49,6 +49,13 @@ class: inverse,center, middle
 
 You can find the 2018 materials in [this](https://github.com/CODATA-RDA-DataScienceSchools/Materials/blob/master/docs/index.md) repo.
 
+---
+class: inverse, center, middle
+
+background-image: url(curriculum.png)
+background-size: 500px
+background-position: 50% 70%
+
 
 ---
 class: inverse, center, middle
@@ -84,13 +91,6 @@ class: inverse, center, middle
 # 2019 - 2020 Plans 
 
 # Addis Ababa, Trieste, Kigali, San José, Pretoria, Sao Paulo, Train-the-trainer workshop
-
----
-class: inverse, center, middle
-
-background-image: url(curriculum.png)
-background-size: 500px
-background-position: 50% 70%
 
 ---
 class: inverse, center, middle
